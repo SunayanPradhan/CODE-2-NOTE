@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/layout/activity_main.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/drawable/button_design.xml" value="0.1" />
+        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/layout/activity_createnote.xml" value="0.2359375" />
+        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/layout/activity_editnoteactivity.xml" value="0.1" />
+        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/layout/activity_forgotpassword.xml" value="0.1" />
+        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/layout/activity_notedetails.xml" value="0.1265625" />
+        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/layout/activity_notesactivity.xml" value="0.25" />
+        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/layout/notes_layout.xml" value="0.2593516209476309" />
+        <entry key="..\:/Users/sunay/AndroidStudioProjects/CODE2NOTE/app/src/main/res/menu/menu.xml" value="0.1" />
       </map>
     </option>
   </component>

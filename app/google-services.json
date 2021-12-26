@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "899295710505",
+    "project_id": "code-2-note",
+    "storage_bucket": "code-2-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899295710505:android:e65b7d30037f1bd1e4fb38",
+        "android_client_info": {
+          "package_name": "com.sunayanpradhan.code2note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899295710505-lv2mhn76afib4icdst8ph93ed6pc7hi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunayanpradhan.code2note",
+            "certificate_hash": "42965e30fe4dac53aea971c79e7048fbb9f01684"
+          }
+        },
+        {
+          "client_id": "899295710505-vvhu487tgibou629pfvptmm7nebfigrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWGCR33ntp2_dsUOeAES_2e-7yDPPAxjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899295710505-vvhu487tgibou629pfvptmm7nebfigrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
